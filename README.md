@@ -52,7 +52,7 @@ Markdown                        █░░░░░░░░░░░░░░░
 ```
 🏆 890 Total Contributions
 
-📜 1 Public Repository
+📜 3 Public Repository
 
 🔑 14 Owned Private Repository
 ```
